@@ -1,0 +1,42 @@
+/* Estilos CSS */
+label {
+    color: #ffffff;
+}
+.parrafo-1 {
+    font-size: 14px;
+}
+.parrafo-2 {
+    font-size: 16px;
+}
+.parrafo-3 {
+    font-size: 18px;
+}
+.parrafo-4 {
+    font-size: 20px;
+}
+.parrafo-5 {
+    font-size: 22px;
+}
+.bg-custom-1 {
+    background-color: blue;
+    color: azure;
+}
+.bg-custom-2 {
+    background-color: rgb(0, 155, 252);
+    color: beige;
+}
+#justif {
+    text-align: justify;
+}
+#centro {
+    text-align: center;
+}
+footer {
+/*  background-color: blue; Se comentó esta línea porque no era el mismo tono de azul que la navbar, 
+se optó por insertar el mismo codigo bootstrap en el footer y la navbar*/
+    color: #ffffff;
+    padding: 30px;
+}
+.negra {
+    color: purple;
+}
